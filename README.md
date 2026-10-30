@@ -110,3 +110,15 @@ Run the game and reach each screen. Press F12 to save the current frame to the `
 ## Project files
 
 `main.py` starts the program and runs the loop. `game.py` contains the game states, rules, spawning, collisions and high-score saving. `entities.py` contains the starfield, particles, the player, collectibles, power-ups and asteroids. `ui.py` contains buttons, the HUD, screen effects and the menu and overlay screens. `audio.py` generates and plays the sounds and music. `settings.py` contains every tunable number, colour and path. `highscore.json` stores the best score.
+
+## Feature section
+## 🎮 Game Preview – LUMI: The Cosmic Collector
+
+Explore the cosmic world of LUMI, where players collect glowing objects, avoid obstacles, and aim for the highest score!
+
+### 🏠 Main Menu
+
+![LUMI Main Menu](screenshots/main-menu.png)
+
+The main menu provides options to start the game, learn the controls, quit, and view the highest score.
+
