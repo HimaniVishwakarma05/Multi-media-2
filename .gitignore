@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build outputs
+build/
+dist/
+*.spec
+
+# Local user/highscore data (optional - uncomment if you want clean repo)
+# highscore.json
+
+# Environment & OS files
+.env
+.venv
+env/
+venv/
+.DS_Store
+Thumbs.db
