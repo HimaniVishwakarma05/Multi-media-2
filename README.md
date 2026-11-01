@@ -118,7 +118,6 @@ Explore the cosmic world of LUMI, where players collect glowing objects, avoid o
 
 ### 🏠 Main Menu
 
-![LUMI Main Menu](screenshots/main-menu.png)
+![LUMI Main Menu](Screenshots/main.png)
 
 The main menu provides options to start the game, learn the controls, quit, and view the highest score.
-
